@@ -25,5 +25,8 @@ Think ML - https://goodboyanush.github.io/
 ## Acknowledgement
 
 Multiple references are borrowed from different sources of internet and different other courses, and they have better slides! With huge respects to their slides, hard work, and efforts, I acknowledge them and only makes sense to reuse some part of their slides!
+
 Assignment_nivya:
 https://medium.com/@nivyasreea.isme1820/machine-learning-for-beginners-5b0ef0f0fe87?sk=482cf37fbb0ed43cdd92d6a71b0efa94
+Assignmnet_kiran:
+https://medium.com/@kirank.isme1820/basics-of-machine-learning-6de7751003d0?source=friends_link&sk=b98de5620cda6c677a1c9d8ff92cd182
