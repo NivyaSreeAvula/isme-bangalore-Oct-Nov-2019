@@ -30,3 +30,6 @@ Assignment_nivya:
 https://medium.com/@nivyasreea.isme1820/machine-learning-for-beginners-5b0ef0f0fe87?sk=482cf37fbb0ed43cdd92d6a71b0efa94
 Assignmnet_kiran:
 https://medium.com/@kirank.isme1820/basics-of-machine-learning-6de7751003d0?source=friends_link&sk=b98de5620cda6c677a1c9d8ff92cd182
+
+Assignment_2_nivya:
+https://medium.com/@nivyasreea.isme1820/simple-discrepancy-between-linear-and-logistic-regression-c3889d00eb1d?sk=0e39ee8d8af535e1b9a0da2e842ff583
