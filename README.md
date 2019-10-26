@@ -32,4 +32,4 @@ Assignmnet_kiran:
 https://medium.com/@kirank.isme1820/basics-of-machine-learning-6de7751003d0?source=friends_link&sk=b98de5620cda6c677a1c9d8ff92cd182
 
 Assignment_2_nivya:
-https://medium.com/@nivyasreea.isme1820/simple-discrepancy-between-linear-and-logistic-regression-c3889d00eb1d?sk=0e39ee8d8af535e1b9a0da2e842ff583
+https://medium.com/@nivyasreea.isme1820/contrast-between-linear-and-logistic-regression-98ffd359e77e?sk=bf2c36b53ed2d84a9bbf2632ac8b8fd6
