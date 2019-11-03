@@ -28,12 +28,10 @@ Multiple references are borrowed from different sources of internet and differen
 
 Assignment_nivya:
 https://medium.com/@nivyasreea.isme1820/introduction-to-machine-learning-ac5c1ecb7f55?sk=4dda914da291506b1245ba95918e6988
-Assignmnet_kiran:
-https://medium.com/@kirank.isme1820/basics-of-machine-learning-6de7751003d0?source=friends_link&sk=b98de5620cda6c677a1c9d8ff92cd182
 
-Assignment_2_nivya:
+2:
 https://medium.com/@nivyasreea.isme1820/contrast-between-linear-and-logistic-regression-98ffd359e77e?sk=bf2c36b53ed2d84a9bbf2632ac8b8fd6
 
-Assignment_3:
+3:
 https://medium.com/@nivyasreea.isme1820/is-humans-and-machine-neural-network-is-same-10ee89dfcf79?sk=8eed2f24595cc60f8e63e7312553d228
 
