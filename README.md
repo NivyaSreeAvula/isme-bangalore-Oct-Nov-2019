@@ -26,7 +26,9 @@ Think ML - https://goodboyanush.github.io/
 
 Multiple references are borrowed from different sources of internet and different other courses, and they have better slides! With huge respects to their slides, hard work, and efforts, I acknowledge them and only makes sense to reuse some part of their slides!
 
-Assignment_nivya:
+## Assignment
+
+1:
 https://medium.com/@nivyasreea.isme1820/introduction-to-machine-learning-ac5c1ecb7f55?sk=4dda914da291506b1245ba95918e6988
 
 2:
