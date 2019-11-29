@@ -38,3 +38,5 @@ https://medium.com/@nivyasreea.isme1820/contrast-between-linear-and-logistic-reg
 https://medium.com/@nivyasreea.isme1820/is-humans-and-machine-neural-network-is-same-10ee89dfcf79?sk=8eed2f24595cc60f8e63e7312553d228
 
 4. Done with minmax scaleing and the code is with-in the "Redwine.ipnb" file
+
+5.https://medium.com/@nivyasreea.isme1820/predicting-red-wine-quality-using-machine-learning-model-34e2b1b8d498?sk=5e7b939960e02a0c3c679acbe94ac6e7
