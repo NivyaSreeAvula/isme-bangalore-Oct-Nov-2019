@@ -37,3 +37,4 @@ https://medium.com/@nivyasreea.isme1820/contrast-between-linear-and-logistic-reg
 3:
 https://medium.com/@nivyasreea.isme1820/is-humans-and-machine-neural-network-is-same-10ee89dfcf79?sk=8eed2f24595cc60f8e63e7312553d228
 
+4. Done with minmax scaleing and the code is with-in the "Redwine.ipnb" file
