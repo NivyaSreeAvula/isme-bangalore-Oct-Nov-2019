@@ -39,4 +39,8 @@ https://medium.com/@nivyasreea.isme1820/is-humans-and-machine-neural-network-is-
 
 4: Done with minmax scaleing and the code is with-in the "Redwine.ipnb" file
 
-5: https://medium.com/@nivyasreea.isme1820/predicting-red-wine-quality-using-machine-learning-model-34e2b1b8d498?sk=5e7b939960e02a0c3c679acbe94ac6e7
+5:
+https://medium.com/@nivyasreea.isme1820/predicting-red-wine-quality-using-machine-learning-model-34e2b1b8d498?sk=5e7b939960e02a0c3c679acbe94ac6e7
+
+6:
+https://medium.com/@nivyasreea.isme1820/a-simple-understanding-of-neural-networks-kernal-trick-and-svm-499762940e1a?sk=f38bec21a6d0dab050b3b3762d38ae2d
